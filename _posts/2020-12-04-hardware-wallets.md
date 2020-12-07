@@ -2,6 +2,8 @@
 title: "Bitcoin Hardware Wallets 2020 Review"
 date: 2020-12-04T15:34:30-04:00
 classes: wide
+excerpt: "When it comes to self-custodying significant savings, you should focus on security first.  Continue reading for a detailed review of well-known Bitcoin wallets."
+image: "/assets/images/wallet.jfif"
 ---
 ![wallet](/assets/images/wallet.jfif)
 {: .image-title}
