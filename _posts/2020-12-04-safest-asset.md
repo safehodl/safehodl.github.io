@@ -2,6 +2,7 @@
 title: "Bitcoin is the Safest Asset in the World"
 date: 2020-12-04T15:34:30-04:00
 classes: wide
+image: "/assets/images/northern-rock.jpg"
 ---
 
 History is full of events in which people lost all of their savings--natural disasters, war, hyperinflations--all of the accumulated fruits of their labor wiped away in an instant.  For millions of victims there was no way to protect their savings until the invention of Bitcoin.

@@ -23,7 +23,7 @@ minimal_mistakes_skin: default
 search: true
 baseurl: "/"
 excerpt_separator: "<!-- end excerpt -->"
-
+url: "https://safehodl.github.io/"
 logo: "/assets/images/lock.jpg"
 author:
   name     : "Safe Hodl"
