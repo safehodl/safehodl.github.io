@@ -2,7 +2,7 @@
 title: "10 Rules for Safe Self-Custody"
 date: 2020-12-04T15:34:30-04:00
 classes: wide
-excerpt: "If you are willing to put in some effort, self-custody can make your Bitcoin the safest asset in the world, so long as you follow these rules."
+excerpt: "Self-custody can make your Bitcoin the safest asset in the world, so long as you follow these rules."
 image: "/assets/images/custody.jpg"
 ---
 ![custody](/assets/images/custody.jpg)
