@@ -1,0 +1,30 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+.image-inline {
+    max-width:400px;
+    height:auto;
+    width:auto;
+}
+
+.image-title {
+    max-width:800px;
+    height:auto;
+    width:auto;
+}
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.table-style {
+    > table, td, th {
+      border: 1px solid mix(#000, $border-color, 25%);
+    }
+}
+
+a:link {
+  text-decoration: none;
+}

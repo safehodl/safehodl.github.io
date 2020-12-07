@@ -1,1 +1,2 @@
-# safehodl.github.io
+# Bitcoin Security Guides
+This repo contains the Jeykll code that generates the https://safehodl.github.io/ website.  Feel free to copy, modify, or use without permission.  The `_posts` folder contains all the informational content.  If you want to help edit, comment, or send encouragement you can do so by opening a [pull request](https://github.com/safehodl/safehodl.github.io/pulls) or sending me an email at safehodl@protonmail.com.

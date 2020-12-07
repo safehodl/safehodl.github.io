@@ -1,0 +1,12 @@
+
+docs:
+  - title: Securing Bitcoin
+    children:
+      - title: "The Safest Asset in the World"
+        url: /safest-asset/
+      - title: "10 Rules for Safe Self-Custody"
+        url: /self-custody/
+      - title: "Hardware Wallets 2020 Review"
+        url: /hardware-wallets/
+      - title: "Every Single Reason Bitcoin will Fail"
+        url: /failure/
