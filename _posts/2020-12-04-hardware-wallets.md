@@ -10,7 +10,9 @@ image: "/assets/images/wallet.jfif"
 
 Most wallet reviews focus on popularity or number of alt coins supported.  However when it comes to self-custodying significant savings, you should focus on security first.
 
-As of December 2020, I recommend the [Cobo Vault with Bitcoin-only firmware](#cobo) for beginners.  For experienced Bitcoiners or those willing to spend more time learning, I recommend the [Coldcard](#cc) for its extra security features and reputation.
+As of December 2020, I recommend the [Coldcard](#cc) for the best security and reputation if you are an experienced Bitcoiner or can spend time learning.
+
+I recommend the [Cobo Vault with Bitcoin-only firmware](#cobo) if you want a much easier-to-use touchscreen at nearly the same level of security.
 
 These are the only two wallets to feature [air-gaps][air] so they don’t need to be plugged into a malware-infected computer.  They also let you generate your seed using [dice rolls][dice] (which I recommend) so you don’t have to trust their seed generation.  Finally they both have great multisig support if you decide to go down that route.
 
