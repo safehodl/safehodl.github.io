@@ -4,7 +4,7 @@ docs:
     children:
       - title: "The Safest Asset in the World"
         url: /safest-asset/
-      - title: "10 Rules for Safe Self-Custody"
+      - title: "10 Rules to Avoid Losing Bitcoin"
         url: /self-custody/
       - title: "Hardware Wallets 2020 Review"
         url: /hardware-wallets/

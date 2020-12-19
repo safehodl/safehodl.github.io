@@ -1,5 +1,5 @@
 ---
-title: "10 Rules for Safe Self-Custody"
+title: "10 Rules to Avoid Losing Bitcoin"
 date: 2020-12-04T15:34:30-04:00
 classes: wide
 excerpt: "Self-custody can make your Bitcoin the safest asset in the world, so long as you follow these rules."
