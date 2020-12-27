@@ -14,40 +14,27 @@ Bitcoin is the first digital asset that can be stored entirely by yourself.  Sel
 * How good is the custodian’s [security model][hack]?  Jurisdictional risk?
 * Is the custodian insured and what risks does the [insurance policy][insurance] cover?
 
-If you are willing to put in some effort, self-custody can make your Bitcoin the safest asset in the world, so long as you follow these rules:
+If you self-custody you must follow these rules to avoid losing Bitcoin:
 
-#### 1. Buy a [reputable hardware wallet](/hardware-wallets/) and learn how to use it.
-Hardware wallets are more secure than your phone or computer which can be easily infected with malware.  A wallet generator you get off the internet might be generating seeds that an attacker already knows.  An attacker that knows your seed can take your Bitcoin.
+**1. Buy a [reputable hardware wallet](/hardware-wallets/).**  Mobile wallets and paper wallet generators are easier to hack.  Attackers who find your seed can steal your Bitcoin.
 
-#### 2. Verify your hardware wallet is authentic.
-Buy directly from the manufacturer and check for any signs of tampering.  Try to get a wallet that allows you to generate your own seed by [rolling dice][dice] so you don’t have to trust the device’s seed generator.
+**2. Verify your wallet is authentic.**  Buy directly from the manufacturer and check for tampering.  [Roll dice][dice] to generate the seed yourself.
 
-#### 3. Backup all information to recover your wallet in a separate secure location.
-If your hardware wallet dies, you forget your passphrase, or you have a fire in your house make sure you won’t lose access to your Bitcoin.  Store your backup in a location safe from theft or natural disaster.  Many people use [steel backups][steel].
+**3. Backup all recovery information in a secure location.**  If your wallet dies or you forget a passphrase make sure you can recover your Bitcoin. Many people use [steel backups][steel].
 
-#### 4. Provide recovery instructions to your inheritors.
-Write down recovery instructions in a will or [dead-man’s switch][switch] that your inheritors will receive if you suddenly die.  For example, you could include the combination to a safe that contains your seed and passphrase backups.
+**4. Provide recovery instructions to your inheritors.**  Write down instructions in a will or [dead-man’s switch][switch] including the location of your seed and passphrase backups.
 
-#### 5. Practice sending, receiving, and backup recovery with your wallet.
-Once you have backed up your seed, wipe it from your wallet and see if you can restore it.  Practice receiving and sending a small amount of Bitcoin before moving large amounts into your wallet.
+**5. Practice receiving, sending, and recovery with your wallet.**  Receive and send a small amount of Bitcoin to the wallet.  Wipe your wallet's seed and see if you can restore it.
 
-After you setup your wallet, there are a few rules to remember when using it:
-{: style="color:gray; text-align: center;"}
+**6. Always check the address on your hardware wallet when sending or receiving.**  Hackers can [replace addresses][addresses] on your computer with their own, so double-check on your device.
 
-#### 6. Always check the address on your hardware wallet when sending or receiving.
-Some hackers [replace addresses][addresses] you see on a website with their own.  You must always double-check addresses on your hardware wallet before moving your Bitcoin.
+**7. Never enter your seed on a computer or phone.**  An app or website might transmit your seed to a scammer who [steals all your Bitcoin][phish]. Only enter your seed into a hardware wallet.
 
-#### 7. Never enter your seed on a computer or phone.
-Only ever enter your seed into a hardware wallet.  An app or website that asks for your seed might be transmitting your seed to someone who will [steal all your Bitcoin][phish].
+**8. Only send Bitcoin to people you know are authentic.**  Any deal that seems too good to be true is probably a [scam][scam].  There is no way to undo a transaction.
 
-#### 8. Only send Bitcoin to people you trust.
-There is no way to undo a transaction and any deal that seems too good to be true is probably a [scam or impersonator][scam].  Treat sending Bitcoin like handing someone cash.
+**9. Double-check you own Bitcoin.**  Don’t trust a website to tell you that you’ve received Bitcoin, double-check on a [block explorer][explorer] using [Tor][tor] or your [own node][node].
 
-#### 9. Use a source you trust to double-check you’ve received Bitcoin.
-Don’t trust a website to tell you that you’ve received Bitcoin, double-check using a [block explorer][explorer] or your [own node][node].  Use the [Tor browser][tor] to visit block explorers if you don’t want your IP address associated with your Bitcoin address.
-
-#### 10. Determine the level of privacy you need.
-People who know how much Bitcoin you have may target you for extortion or theft.  Try to keep your Bitcoin as private as you can.
+**10. Determine the level of privacy you need.**  Owning Bitcoin makes you a target for extortion or theft.  Keep your Bitcoin as private as you can.
 
 .   .   .
 {: style="color:gray; font-size: 150%; text-align: center;"}
