@@ -10,3 +10,5 @@ docs:
         url: /hardware-wallets/
       - title: "Every Reason Bitcoin Will Not Fail"
         url: /failure/
+      - title: "Multisig Best Practices"
+        url: /multisig/
