@@ -12,7 +12,7 @@ I've used the Trezor, Ledger, Coldcard, CoboVault, BitBox and evaluated their se
 
 [Coldcard](#cc) has the best security of all wallets, but takes longer to learn and use.
 
-[CoboVault](#cobo) has a touch screen that’s easy-to-use with a phone at nearly the same security.
+[CoboVault](#cobo) has a touch screen that’s [easy-to-use with a phone](https://www.youtube.com/watch?v=JnRjvZKulrA) at nearly the same security.
 
 These are the only two wallets that have:
 - [Air-gaps][air] so they don’t plug into a possibly infected computer.
