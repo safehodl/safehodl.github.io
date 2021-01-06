@@ -8,15 +8,15 @@ image: "/assets/images/custody.jpg"
 ![custody](/assets/images/custody.jpg)
 {: .image-title}
 
-Bitcoin is the first digital asset that can be stored entirely by yourself.  Self-custody avoids the risk of storing assets with a custodian like an exchange or bank.  When using a custodian you have to ask:
+If you use a custodian to store you Bitcoin you have the following risks:
 
-* Can the custodian prove your Bitcoin is [allocated only to you][reserves]?
-* How good is the custodian’s [security model][hack]?  Jurisdictional risk?
-* Is the custodian insured and what risks does the [insurance policy][insurance] cover?
+* Your Bitcoin might not be [allocated to you][reserves] if the custodian becomes insolvent.
+* Custodial Bitcoin can be [be hacked][hack] or confiscated.
+* Insurance might not cover your loss.
 
-If you self-custody you must follow these rules to avoid losing Bitcoin:
+Self-custody is the solution, but before you attempt to hold your own Bitcoin you must understand these rules:
 
-**1. Buy a [reputable hardware wallet](/hardware-wallets/).**  Mobile wallets and paper wallet generators are easier to hack.  Attackers who find your seed can steal your Bitcoin.
+**1. Buy a [reputable hardware wallet](/hardware-wallets/).**  Software wallets and paper wallet generators are easier to hack.  If you can't afford a hardware wallet, you can use HexaWallet or BlueWallet and split your key across 3 devices.
 
 **2. Verify your wallet is authentic.**  Buy directly from the manufacturer and check for tampering.  [Roll dice][dice] to generate the seed yourself.
 
@@ -39,11 +39,9 @@ If you self-custody you must follow these rules to avoid losing Bitcoin:
 .   .   .
 {: style="color:gray; font-size: 150%; text-align: center;"}
 
-I consider these rules to be necessary for safe self-custody.
-
 At first it may seem like a lot to remember, especially if you are new to Bitcoin, but it only takes a few hours to set up a wallet.  After you move Bitcoin into your wallet there is nothing left for you to worry about until you need to move it again.  Your Bitcoin will be safe from bad custodians, hackers, fraudsters, and accidents.
 
-Once you have mastered using your hardware wallet, you can decide whether you want to add multisig to your security.  Multisig adds more complexity, but protects you against rare events--a good idea if you store a significant amount of your savings.
+Once you have mastered using your hardware wallet, you can decide whether you want to add multisig to your security.  Multisig adds more complexity,  but protects you against rare events which I recommend if you store a significant amount of your savings.
 
 Over time as hardware and software improves, self-custody will become easier and these practices will change.  One day, Bitcoin self-custody will be as natural as storing money in a bank is for most people today.
 
@@ -57,5 +55,4 @@ Over time as hardware and software improves, self-custody will become easier and
 [node]: https://bitcoinmagazine.com/articles/buy-or-diy-an-overview-of-7-bitcoin-full-node-products
 [tor]: https://www.torproject.org/download/
 [hack]: https://selfkey.org/list-of-cryptocurrency-exchange-hacks
-[insurance]: https://www.finivi.com/can-you-insure-your-bitcoin
 [reserves]: https://niccarter.info/proof-of-reserves
