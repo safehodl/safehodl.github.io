@@ -16,7 +16,7 @@ If you use a custodian to store you Bitcoin you have the following risks:
 
 Self-custody is the solution, but before you attempt to hold your own Bitcoin you must understand these rules:
 
-**1. Buy a [reputable hardware wallet](/hardware-wallets/).**  Software wallets and paper wallet generators are easier to hack.  If you can't afford a hardware wallet, you can use HexaWallet or BlueWallet and split your key across 3 devices.
+**1. Buy a [reputable hardware wallet](/hardware-wallets/).**  Software wallets and paper wallet generators are easier to hack.  If you can't afford a hardware wallet, you can use BlueWallet vault (2-of-3 multsig) and split your key across 3 devices.
 
 **2. Verify your wallet is authentic.**  Buy directly from the manufacturer and check for tampering.  [Roll dice][dice] to generate the seed yourself.
 
