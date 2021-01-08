@@ -41,7 +41,7 @@ Self-custody is the solution, but before you attempt to hold your own Bitcoin yo
 
 At first it may seem like a lot to remember, especially if you are new to Bitcoin, but it only takes a few hours to set up a wallet.  After you move Bitcoin into your wallet there is nothing left for you to worry about until you need to move it again.  Your Bitcoin will be safe from bad custodians, hackers, fraudsters, and accidents.
 
-Once you have mastered using your hardware wallet, you can decide whether you want to add multisig to your security.  Multisig adds more complexity,  but protects you against rare events which I recommend if you store a significant amount of your savings.
+Once you have mastered using your hardware wallet, you can decide whether you want to add [multisig to your security](/multisig/).  Multisig adds more complexity,  but protects you against rare events which I recommend if you store a significant amount of your savings.
 
 Over time as hardware and software improves, self-custody will become easier and these practices will change.  One day, Bitcoin self-custody will be as natural as storing money in a bank is for most people today.
 
