@@ -3,7 +3,7 @@ title: "Building a Bitcoin Cluster"
 date: 2020-12-04T15:34:30-04:00
 classes: wide
 excerpt: "Showcase of how to build a Bitcoin node cluster"
-image: "/assets/images/custody.jpg"
+image: "/assets/images/node5.jpg"
 ---
 ![custody](/assets/images/node5.jpg)
 {: .image-title}
