@@ -10,16 +10,17 @@ image: "/assets/images/node5.jpg"
 
 If you are a Bitcoin developer or tinkerer you might want to setup multiple Bitcoin nodes.  Here is how I built a Bitcoin cluster with three nodes:
 
-### 1. Buy the case and ethernet switch:
+### 1. Buy the case and ethernet switch ($120):
 - [Cloudlet CASE](https://www.amazon.com/gp/product/B07D5NM9ZG) ($70)
 - [4-port PoE (Power-over-Ethernet) Switch](https://www.amazon.com/gp/product/B076HZFY3F) ($50)
 
-### 2. For each Bitcoin node buy the following:
+### 2. For each Bitcoin node buy the following ($190):
 - [1TB Internal SSD](https://www.amazon.com/gp/product/B07NNRTTCM) ($90)
 - [SATA3 to USB3 Adaptor Cable](https://www.amazon.com/gp/product/B083ZJZGH2) ($10)
 - [1ft Ethernet Cable](https://www.amazon.com/gp/product/B06XBYGL2T) ($1)
 - [PoE (Power-over-Ethernet) HAT for Raspberry Pi 4](https://www.amazon.com/gp/product/B07WD7HXSQ) ($20)
 - [Raspberry Pi 4 (4 GB RAM)](https://www.amazon.com/gp/product/B07WHZW881) ($60)
+- [SD Card 8GB+](https://www.amazon.com/gp/product/B083VMGDQC) ($5)
 - M3 metric screws + spacers for mounting extra SSDs ($1)
 
 ![node1](/assets/images/node1.png)
