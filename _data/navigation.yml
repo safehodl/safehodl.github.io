@@ -12,3 +12,5 @@ docs:
         url: /failure/
       - title: "Multisig Best Practices"
         url: /multisig/
+      - title: "Building a Bitcoin Cluster"
+        url: /node-cluster/
