@@ -27,12 +27,12 @@ If you are a Bitcoin developer or tinkerer you might want to setup multiple Bitc
 {: .image-title}
 
 ### 3. Assemble each Raspberry Pi and SSD on the case bays
-- Flash the SD card with a Bitcoin image
+- Flash the SD card with a Bitcoin image ([MyNode](https://mynodebtc.com/download) and [Umbrel](https://github.com/getumbrel/umbrel-os) are popular)
 - Insert SD card into Raspberry Pi
 - Stick heatsink on Raspberry Pi’s CPU
-- Push PoE hat onto Raspberry Pi
-- Screw Raspberry Pi into case bay
-- Screw SSD into case bay
+- Push PoE HAT onto Raspberry Pi pins until fully down
+- Screw Raspberry Pi into case bay (see images below)
+- Screw SSD into case bay (see images below)
 
 ![node2](/assets/images/node2.png)
 {: .image-title}
