@@ -53,3 +53,8 @@ Make sure you get the orientation right when mounting on the bays.
 {: .image-title}
 
 After you plug the ethernet cable in, the switch will automatically power on the Raspberry Pi.  The switch needs to be plugged in and connected to your home router/modem (using port #5 on the switch).
+
+![node1](/assets/images/node7.jpg)
+{: .image-title}
+
+The Bitcoin cluster also makes a good cypherpunk night light.
